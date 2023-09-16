@@ -6,7 +6,6 @@ const Message = ({ variant, children }) => {
 
 Message.defaultProps = {
   variant: "info",
-  // this sets the color to blue
 };
 
 export default Message;
